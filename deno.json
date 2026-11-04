@@ -3,6 +3,8 @@
     "dev": "deno run --watch --allow-read --allow-net main.ts"
   },
   "imports": {
-    "@std/assert": "jsr:@std/assert@1"
+    "@std/assert": "jsr:@std/assert@1" ,
+    "fresh": "jsr:fresh@^2.0.0"
+
   }
 }
