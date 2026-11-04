@@ -1,5 +1,3 @@
-ts
-
 import { Builder } from "fresh/dev";
 import { app } from "./main.ts";
 
